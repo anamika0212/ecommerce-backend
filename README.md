@@ -8,19 +8,19 @@
 ### App Demo
 
 - Create Schema and Seed data
-[!(https://img.youtube.com/vi/2wAEXB5b_J0/0.jpg)](https://youtu.be/2wAEXB5b_J0)
+[![Ecom-schema & seed](https://img.youtube.com/vi/2wAEXB5b_J0/0.jpg)](https://youtu.be/2wAEXB5b_J0)
 
 
 - GET,POST, PUT, and DELETE routes for categories
-[!(https://img.youtube.com/vi/Lo_zBiRr12s/0.jpg)](https://youtu.be/Lo_zBiRr12s)
+[![Ecom-categories](https://img.youtube.com/vi/Lo_zBiRr12s/0.jpg)](https://youtu.be/Lo_zBiRr12s)
 
 
 - GET,POST, PUT, and DELETE routes for Tags
-[!(https://img.youtube.com/vi/eKGd7dZzNW8/0.jpg)](https://youtu.be/eKGd7dZzNW8)
+[![Ecom-tags](https://img.youtube.com/vi/eKGd7dZzNW8/0.jpg)](https://youtu.be/eKGd7dZzNW8)
 
 
 - GET,POST, PUT, and DELETE routes for products
-[!(https://img.youtube.com/vi/z09jZAMsdJc/0.jpg)](https://youtu.be/z09jZAMsdJc)
+[![Ecom-products](https://img.youtube.com/vi/z09jZAMsdJc/0.jpg)](https://youtu.be/z09jZAMsdJc)
 
 
 
